@@ -1,0 +1,3 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+John,Doe,200,true,2023-10-01,2023-10-05,Breakfast
+Jane,Smith,300,false,2023-11-01,2023-11-07,Wifi
